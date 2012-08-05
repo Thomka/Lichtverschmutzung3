@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sun Aug 05 14:31:07 CEST 2012
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=Lichtverschmutzung3.tex
+outputFile=Lichtverschmutzung3.pdf
+langSpell=en
+markDer=true
+srcDir=
